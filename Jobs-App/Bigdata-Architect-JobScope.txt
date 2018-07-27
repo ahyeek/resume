@@ -1,0 +1,42 @@
+Chief Data Analyst
+Responsibilities
+a. Develop new analytical projects as part of the Foundation’s overall research programmer
+b. Provide technical input into the development of research projects led by other members of the team
+c. Collect, prepare and link large survey datasets for analysis
+d. Conduct statistical analysis using Excel, SPSS and/or STATA and using advanced techniques when appropriate.
+e. Build the Foundation’s growing network of policy experts, relevant stakeholders and academics
+
+
+Big Data Solutions Architect
+Responsibilities
+a. Guide the full lifecycle of a Hadoop solution, including requirements analysis, platform selection, technical architecture design, application design and development, testing, and deployment.
+b. Provide technical and managerial leadership in a team that designs and develops path breaking large-scale cluster data processing systems.
+c. Help Xtremeinsights customers develop strategies that maximize the value of their data.
+d. Help Xtremeinsights establish thought leadership in the big data space by contributing white-papers, technical commentary to the community.
+
+
+Big Data Engineer
+Responsibilities
+a. Gather and process raw data at scale (including writing scripts, web scraping, calling APIs, write SQL queries, etc.).
+b. Work closely with our engineering team to integrate your amazing innovations and algorithms into our production systems.
+c. Process unstructured data into a form suitable for analysis – and then do the analysis.
+d. Support business decisions with ad hoc analysis as needed.
+
+
+Big Data Researcher
+Responsibilities
+a. Extract data from a variety of relational databases, manipulate, explore data  using quantitative, statistical and visualization tools
+b. Inform the selection of appropriate modeling techniques to ensure that predictive models are developed using rigorous statistical processes
+c. Establish and maintain effective processes for validating and updating predictive models
+d. Analyze, model, and forecast health service utilization patterns/ trends and create capability to model outcomes of what-if scenarios for novel health care delivery models
+e. Collaborate with internal business, analytics and data strategy partners to improve efficiency and increase applicability of predictive models into the core software products
+f. Help manage the innovation cycle of conducting analyses, generating insights, advocating for integration of new concepts into existing client tools, helping to translate ad-hoc analyses into scalable software solutions.
+
+
+Data warehouse manager
+Responsibilities
+a. Develop and implement information management strategies.
+b. Coordinate and manage information management solutions.
+c. Scope, plan, and prioritize multiple projects.
+d. Manage all aspects of the warehouses such as data sourcing, migration, quality, design, and implementation.
+
